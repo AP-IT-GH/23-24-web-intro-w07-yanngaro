@@ -11,7 +11,9 @@ Tijdens de lessen van deze week leer je over:
 
 Het beheren van een webserver en het structureren van bestanden voor een statische website zijn cruciale aspecten van webtechnologie. Hier volgen enkele belangrijke overwegingen en aanwijzingen.
 
+
 ## webserver configuratie
+
 ### serverinstellingen
 Zorg ervoor dat je de serverinstellingen begrijpt en configureert. Dit omvat zaken als toegangscontrole, serverlogs, en de mogelijkheid om essentiële modules in te schakelen (bijv. voor HTTPS).
 ### beveiliging
@@ -32,10 +34,6 @@ Voeg relevante meta-tags toe aan je pagina's en optimaliseer de inhoud voor zoek
 Implementeer monitoringtools en analytics om het verkeer naar je website bij te houden. Dit helpt je inzicht te krijgen in het gedrag van gebruikers en de prestaties van je site.
 ### versiebeheer
 Gebruik versiebeheer, zoals Git, om wijzigingen aan je website bij te houden en gemakkelijk terug te kunnen gaan naar eerdere versies indien nodig.
-
-
-
-
 
 ## 📚 bronnen
 - [AP cursus webtechnologie > serverbeheer](https://apwt.gitbook.io/webtechnologie/serverbeheer/intro)
